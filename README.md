@@ -5,7 +5,18 @@ I build web applications and integrations, drawing on 7+ years of software engin
 
 **South Africa · Open to senior frontend/full-stack roles, sustained contracts, and remote collaboration**
 
-[Selected work](#selected-work) · [More interface projects](#more-interface-projects) · [Portfolio guide](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md) · [Engineering approach](#engineering-approach)
+[Previously](#previously) · [Selected work](#selected-work) · [More interface projects](#more-interface-projects) · [Portfolio guide](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md) · [Engineering approach](#engineering-approach)
+
+## Previously:
+
+- **Senior Full-Stack Engineer** at [Huble](https://huble.com/) — React/TypeScript delivery, serverless functions, and CRM integrations.
+- **Senior Software Engineer** at [Rank Group](https://www.rank.com/) — regulated gaming platforms, testing standards, code review, and mentoring.
+- **Software Engineer** at [EY](https://www.ey.com/en_za), via [+OneX](https://www.plusonex.com/) — enterprise applications, API integrations, and frontend performance.
+- **Senior Full-Stack Developer (Contract)** at [Spitfire Inbound](https://www.spitfireinbound.com/) — CRM workflows, reusable modules, and third-party integrations.
+- **Lecturer & Coding Coach** at [CodeSpace Academy](https://www.codespace.co.za/) — JavaScript, APIs, debugging, and developer mentoring.
+- **Software Developer (Contract)** at [DADO Agency](https://www.dadoagency.com/) — React frontend delivery for European clients.
+- **Software Engineer** at [Homechoice](https://www.homechoice.co.za/) — e-commerce development and legacy frontend modernisation.
+- **Junior Web Developer** at [OpenUp](https://openup.org.za/) — end-to-end delivery of a civic platform using Django, GraphQL, and React/Gatsby.
 
 ## Selected work
 
@@ -36,6 +47,7 @@ Each project illustrates a specific area of implementation; setup instructions a
 - **Make boundaries clear:** separate interface concerns, application logic, and external integrations.
 - **Make behaviour reviewable:** use focused tests, readable code, and explicit handling of loading and failure states.
 - **Explain the trade-offs:** favour decisions that the team can understand, maintain, and evolve.
+- **Help others grow:** share context through code review, pairing, and mentoring.
 
 ## Technologies
 
@@ -44,4 +56,4 @@ Each project illustrates a specific area of implementation; setup instructions a
 
 ## Connect
 
-I welcome conversations about senior engineering opportunities, frontend architecture, and API integrations. Contact details are available in my GitHub profile sidebar.
+I welcome conversations about senior engineering opportunities, frontend architecture, and API integrations. [Connect with me on LinkedIn](https://www.linkedin.com/in/misheck-siwela/).
