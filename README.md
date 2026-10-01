@@ -11,24 +11,24 @@ I build web applications and integrations, drawing on 7+ years of software engin
 
 A curated route through my public projects, organised by engineering focus. Follow the code links to inspect the implementation directly.
 
-| Project | Engineering focus | Explore the implementation |
-| --- | --- | --- |
-| [Management Dashboard](https://github.com/mishs/management-dashboard) | Complex UI state and component development. | [Code](https://github.com/mishs/management-dashboard/blob/main/frontend/src/storybookComponents/Dashboard/Dashboard.tsx) · [Task helper tests](https://github.com/mishs/management-dashboard/blob/main/frontend/src/utils/taskHelpers.test.ts) |
-| [Europe Data Visualisation](https://github.com/mishs/europe-circle-packing) | Interactive data visualisation. | [Code](https://github.com/mishs/europe-circle-packing/blob/development/src/app/features/circle-packing/circle-packing.component.ts) · [Data loading](https://github.com/mishs/europe-circle-packing/blob/development/src/app/utils/data-loader.ts) |
-| [Martian Robots](https://github.com/mishs/martlan-robots) | Domain modelling and automated tests. | [Code](https://github.com/mishs/martlan-robots/blob/main/src/simulator/RobotSimulator.ts) · [Simulation tests](https://github.com/mishs/martlan-robots/blob/main/tests/RobotSimulator.test.ts) |
-| [GitHub Commits Explorer](https://github.com/mishs/react-gitcommits-explorer) | Repository exploration and shared UI state. | [Code](https://github.com/mishs/react-gitcommits-explorer/blob/main/src/context/CommitsContext.js) · [Commits interface](https://github.com/mishs/react-gitcommits-explorer/blob/main/src/Commits/Commits.js) |
-| [Client Subscription Tracker](https://github.com/mishs/client-subscriptions-tracking) | Business interfaces and filtering. | [Code](https://github.com/mishs/client-subscriptions-tracking/blob/main/src/Context/DevicesContext.js) · [Table interface](https://github.com/mishs/client-subscriptions-tracking/blob/main/src/components/Layout/MainTable.jsx) |
-| [PC Games Catalogue](https://github.com/mishs/react-online-catalogue-web-system) | API-backed catalogue and detail views. | [Code](https://github.com/mishs/react-online-catalogue-web-system/blob/main/src/context/DealsState.js) · [Deal detail view](https://github.com/mishs/react-online-catalogue-web-system/blob/main/src/pages/DealDetail/DealDetail.jsx) |
+| Project | Engineering focus | Explore the implementation | Demo |
+| --- | --- | --- | --- |
+| [Management Dashboard](https://github.com/mishs/management-dashboard) | Complex UI state and component development. | [Code](https://github.com/mishs/management-dashboard/blob/main/frontend/src/storybookComponents/Dashboard/Dashboard.tsx) · [Task helper tests](https://github.com/mishs/management-dashboard/blob/main/frontend/src/utils/taskHelpers.test.ts) | [View demo](https://modernmanagmentdashboard.netlify.app/) |
+| [Europe Data Visualisation](https://github.com/mishs/europe-circle-packing) | Interactive data visualisation. | [Code](https://github.com/mishs/europe-circle-packing/blob/development/src/app/features/circle-packing/circle-packing.component.ts) · [Data loading](https://github.com/mishs/europe-circle-packing/blob/development/src/app/utils/data-loader.ts) | Source available |
+| [Martian Robots](https://github.com/mishs/martlan-robots) | Domain modelling and automated tests. | [Code](https://github.com/mishs/martlan-robots/blob/main/src/simulator/RobotSimulator.ts) · [Simulation tests](https://github.com/mishs/martlan-robots/blob/main/tests/RobotSimulator.test.ts) | CLI project |
+| [GitHub Commits Explorer](https://github.com/mishs/react-gitcommits-explorer) | Repository exploration and shared UI state. | [Code](https://github.com/mishs/react-gitcommits-explorer/blob/main/src/context/CommitsContext.js) · [Commits interface](https://github.com/mishs/react-gitcommits-explorer/blob/main/src/Commits/Commits.js) | [View demo](https://mish-git-commits-explorer.netlify.app/) |
+| [Client Subscription Tracker](https://github.com/mishs/client-subscriptions-tracking) | Business interfaces and filtering. | [Code](https://github.com/mishs/client-subscriptions-tracking/blob/main/src/Context/DevicesContext.js) · [Table interface](https://github.com/mishs/client-subscriptions-tracking/blob/main/src/components/Layout/MainTable.jsx) | [View demo](https://mish-demoproject.netlify.app/) |
+| [User Directory & CRM Interface](https://github.com/mishs/hubspot_react_ts-fullstack-tinkering) | React, TypeScript, API validation, and shared UI state. | [Code](https://github.com/mishs/hubspot_react_ts-fullstack-tinkering/blob/main/src/lib/api.ts) · [State management](https://github.com/mishs/hubspot_react_ts-fullstack-tinkering/blob/main/src/stores/useUserStore.ts) | [View demo](https://hubspot-partner-fullstack-challenge.netlify.app/) |
 
 ## More interface projects
 
-- **[Card Form Interface](https://github.com/mishs/credit-card-validation):** React and TypeScript form project with card-entry, edit flows, validation logic, and a visual card preview.
-- **[Delivery Pickup Selector](https://github.com/mishs/delivery-pickup):** React assessment interface for exploring pickup locations, expanding address details, and selecting a location.
-- **[Bar Tab Orders](https://github.com/mishs/bartab-frontend-react):** React assessment project with price-list and order views, shared order state, and browser-local persistence.
+- **[Card Form Interface](https://github.com/mishs/credit-card-validation):** React and TypeScript form project with card-entry, edit flows, validation logic, and a visual card preview. **[View demo →](https://mish-react-tsx-creditcard-validation.netlify.app/)**
+- **[Delivery Pickup Selector](https://github.com/mishs/delivery-pickup):** React interface for exploring pickup locations, expanding address details, and selecting a location. **[View demo →](https://mish-pargo-pickup.netlify.app/)**
+- **[Bar Tab Orders](https://github.com/mishs/bartab-frontend-react):** React project with price-list and order views, shared order state, and browser-local persistence. **[View demo →](https://mish-bartab-react.netlify.app/)**
 
 **[Explore all nine projects and their code entry points →](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md)**
 
-These examples include independent projects and technical assessments. Each illustrates a specific area of implementation; project context and setup instructions are available in its repository.
+Each project illustrates a specific area of implementation; setup instructions are available in its repository.
 
 ## Engineering approach
 
