@@ -9,7 +9,7 @@ I build web applications and integrations, drawing on 7+ years of software engin
 
 ## Previously:
 
-- **Senior Software Engineer** at [Rank Group](https://www.rank.com/) — regulated gaming platforms, testing standards, code review, and mentoring.
+- **Senior Software Engineer** at [Rank Group](https://www.rank.com/) — regulated gaming platforms, testing standards, and code review.
 - **Senior Full-Stack Engineer** at [Huble](https://huble.com/) — React/TypeScript delivery, serverless functions, and CRM integrations.
 - **Software Engineer** at [EY](https://www.ey.com/en_za), via [+OneX](https://www.plusonex.com/) — enterprise applications, API integrations, and frontend performance.
 - **Senior Full-Stack Developer (Contract)** at [Spitfire Inbound](https://www.spitfireinbound.com/) — CRM workflows, reusable modules, and third-party integrations.
