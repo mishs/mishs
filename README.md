@@ -16,6 +16,7 @@ I build web applications and integrations, drawing on 7+ years of software engin
 - **Lecturer & Coding Coach** at [CodeSpace Academy](https://www.codespace.co.za/) — JavaScript, APIs, debugging, and developer mentoring.
 - **Software Developer (Contract)** at [DADO Agency](https://www.dadoagency.com/) — React frontend delivery for European clients.
 - **Software Engineer** at [Homechoice](https://www.homechoice.co.za/) — e-commerce development and legacy frontend modernisation.
+- **SEO Specialist** at [Big Web Media](https://www.bigwebmedia.co.za/) — technical on-page and off-page optimisation to improve search visibility.
 - **Junior Web Developer** at [OpenUp](https://openup.org.za/) — end-to-end delivery of a civic platform using Django, GraphQL, and React/Gatsby.
 
 ## Selected work
