@@ -1,9 +1,9 @@
 # Misheck Siwela
 ### Senior Software Engineer · React, TypeScript & Full-Stack Development
 
-I build web applications and integrations, drawing on 7+ years of software engineering experience. My focus is turning complex requirements into understandable interfaces, clear API contracts, and maintainable code.
+I build web applications and integrations, drawing on +7.5 years of software engineering experience. My focus is turning complex requirements into understandable interfaces, clear API contracts, and maintainable code.
 
-**South Africa · Open to senior frontend/full-stack roles, sustained contracts, and remote collaboration**
+**Cape Town, South Africa · Open to senior frontend/full-stack roles, sustained contracts, and remote collaboration**
 
 [Previously](#previously) · [Selected work](#selected-work) · [More interface projects](#more-interface-projects) · [Portfolio guide](https://github.com/mishs/mishs/blob/main/PORTFOLIO.md) · [Engineering approach](#engineering-approach)
 
@@ -16,8 +16,8 @@ I build web applications and integrations, drawing on 7+ years of software engin
 - **Lecturer & Coding Coach** at [CodeSpace Academy](https://www.codespace.co.za/) — JavaScript, APIs, debugging, and developer mentoring.
 - **Software Developer (Contract)** at [DADO Agency](https://www.dadoagency.com/) — React frontend delivery for European clients.
 - **Software Engineer** at [Homechoice](https://www.homechoice.co.za/) — e-commerce development and legacy frontend modernisation.
-- **SEO Specialist** at [Big Web Media](https://www.bigwebmedia.co.za/) — technical on-page and off-page optimisation to improve search visibility.
 - **Junior Web Developer** at [OpenUp](https://openup.org.za/) — end-to-end delivery of a civic platform using Django, GraphQL, and React/Gatsby.
+- **SEO Specialist** at [Big Web Media](https://www.bigwebmedia.co.za/) — technical on-page and off-page optimisation to improve search visibility.
 
 ## Selected work
 
